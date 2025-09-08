@@ -8,7 +8,11 @@
   ## ini hasil nya
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/80d29fd2-c231-406a-a638-d69dc64d2693" />
 
-2. 
+# 2. Langkah Kedua Buka file lib/main.dart
 
-  
+   ## ini code nya
+   <img width="1244" height="2718" alt="image" src="https://github.com/user-attachments/assets/8d595748-aaad-4cf4-9386-fc1376301c54" />
+
+   
+
 
