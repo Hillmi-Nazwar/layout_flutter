@@ -60,6 +60,8 @@
 
 
    ## ini hasilnya
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73bd2db0-3ef7-4ad8-9f80-3c71711652b6" />
+
    
 
    
