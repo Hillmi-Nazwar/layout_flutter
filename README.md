@@ -21,13 +21,19 @@
 # 2. Implementasi title row
 
    ## ini code nya
-   <img width="1244" height="2718" alt="image" src="https://github.com/user-attachments/assets/8290cfe5-5e65-4645-8ca1-f3e4f959ae70" />
+<img width="1446" height="2608" alt="image" src="https://github.com/user-attachments/assets/7cf7dfc0-2ba0-4a2d-b234-49b9e92d5410" />
+
+
 
 
    ## ini Hasil nya
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2393a777-3f49-40ca-b3b9-2afaae64dd64" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d8512ce-a962-4ec3-81b2-df2e646dfad5" />
 
 
+## Penjelasann :
+   Kode ini digunakan menampilkan body baru yang sudah diubah yaitu "Wisata Gunung Ijen". Ada juga penambahanan pada penambahan teks body yaitu "Banyuwangi, Indonesia" disertai warna abu-abu, lalu ada tambahan icon bintang berwarna merah dan juga sekarang ada tambahan rating dibawah icon yang memiliki rating " 4,9 ".
+
+   
 
 
 
