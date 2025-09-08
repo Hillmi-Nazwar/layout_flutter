@@ -9,6 +9,7 @@
 
 
 
+
   ## ini hasil nya
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/464ee40e-1e8a-438d-8c20-2058d2db3443" />
 
@@ -30,8 +31,36 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d8512ce-a962-4ec3-81b2-df2e646dfad5" />
 
 
-## Penjelasann :
-   Kode ini digunakan menampilkan body baru yang sudah diubah yaitu "Wisata Gunung Ijen". Ada juga penambahanan pada penambahan teks body yaitu "Banyuwangi, Indonesia" disertai warna abu-abu, lalu ada tambahan icon bintang berwarna merah dan juga sekarang ada tambahan rating dibawah icon yang memiliki rating " 4,9 ".
+## Penjelasan :
+   Kode ini digunakan menampilkan body baru yang sudah diubah yaitu "Wisata Gunung Ijen". Ada juga penambahanan pada penambahan teks body yaitu "Banyuwangi, Indonesia" disertai warna abu-abu, lalu ada tambahan icon bintang berwarna merah dan juga sekarang ada tambahan rating dibawah icon yang memiliki rating " 4,9 ". Dan jangan lupa tambahkan tittle section.
+
+
+
+# 3. Buat method Column _buildButtonColumn
+
+   ## ini code nya
+<img width="1462" height="4060" alt="image" src="https://github.com/user-attachments/assets/ef6682a4-c448-4005-b9d8-7ee8f26682c5" />
+
+
+
+   ## ini hasil nya
+<img width="1462" height="4060" alt="image" src="https://github.com/user-attachments/assets/cfcaadc7-2a57-4cd9-8624-5c8d1c4a8933" />
+
+
+## Penjelasan :
+   Kode ini berisi fungsi untuk menambahkan ikon langsung ke kolom. Teks berada di dalam Container dengan margin hanya di bagian atas, yang memisahkan teks dari ikon. Dan memunculkan beberapa icon baru diantarannya adalah ada call, Route, Share dan masing" ikon berwarna. Dan jangan lupa tambahkan button section.
+
+
+
+   # 4. Buat Implementasi text section
+
+   ## ini codenya 
+   <img width="2048" height="4842" alt="image" src="https://github.com/user-attachments/assets/84d6648c-22a9-404e-86c6-e0fd9876fbf0" />
+
+
+
+   ## ini hasilnya
+   
 
    
 
