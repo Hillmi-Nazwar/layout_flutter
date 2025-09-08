@@ -13,6 +13,7 @@
    ## ini code nya
    <img width="1244" height="2718" alt="image" src="https://github.com/user-attachments/assets/8d595748-aaad-4cf4-9386-fc1376301c54" />
 
-   
+   <img width="958" height="632" alt="image" src="https://github.com/user-attachments/assets/fc61baaa-60e2-423b-bf4b-d1dff292357f" />
+
 
 
