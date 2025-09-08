@@ -1,16 +1,15 @@
 # layout_flutter
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Langkah Pertama Buat Projek Baru
+   ini code nya
+<img width="1160" height="1192" alt="image" src="https://github.com/user-attachments/assets/d4b5ee23-65c4-48c2-a284-6cbee69a3c87" />
 
-A few resources to get you started if this is your first Flutter project:
+  ini hasil nya
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/80d29fd2-c231-406a-a638-d69dc64d2693" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+
