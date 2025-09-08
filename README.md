@@ -2,7 +2,7 @@
 
 
 # 1. Langkah Pertama Buat Projek Baru
-   ##ini code nya
+   ## ini code nya
 <img width="1160" height="1192" alt="image" src="https://github.com/user-attachments/assets/d4b5ee23-65c4-48c2-a284-6cbee69a3c87" />
 
   ## ini hasil nya
