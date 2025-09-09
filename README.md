@@ -44,7 +44,8 @@
 
 
    ## ini hasil nya
-<img width="1462" height="4060" alt="image" src="https://github.com/user-attachments/assets/cfcaadc7-2a57-4cd9-8624-5c8d1c4a8933" />
+<img width="1920" height="1080" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/52d0a98a-b779-43fe-bc0b-5780ea93b22a" />
+
 
 
 ## Penjelasan :
